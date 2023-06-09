@@ -28,6 +28,13 @@
     },
     "images": [
         {
+            "filename": "vEOS-lab-4.30.0.1F.vmdk",
+            "version": "4.30.0.1F",
+            "md5sum": "ca30fd7c89890ed2ae407e2d0c390340",
+            "filesize": 561709056,
+            "download_url": "https://www.arista.com/en/support/software-download"
+        },        
+        {
             "filename": "vEOS-lab-4.26.2F.vmdk",
             "version": "4.26.2F",
             "md5sum": "de8ce9750fddb63bd3f71bccfcd7651e",
